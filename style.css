@@ -69,7 +69,6 @@ body {
   bbackground: url('file-pokeball-png-0.png') no-repeat center center fixed;
 }
 .1image {
-  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
   background-size: cover;
   background-position: center;
   height: 300px;
